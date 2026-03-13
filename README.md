@@ -1,18 +1,20 @@
-<!-- Header -->
 <div align="center">
 
-<!-- Visitor Counter -->
-![Visitor Count](https://profile-counter.glitch.me/KaveeshaNirmal/count.svg)
+# 👋 Hi, I'm Kaveesha Nirmal
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+KAVEESHA+%F0%9F%91%8B;Graphic+Designer+%F0%9F%8E%A8;Aspiring+Full+Stack+Dev+%F0%9F%9A%80;Learning+Java+%E2%98%95)](https://git.io/typing-svg)
+### 🎨 Graphic Designer · 💻 Aspiring Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Graphic+Designer+%F0%9F%8E%A8;Full+Stack+Enthusiast+%F0%9F%9A%80;Currently+Learning+Java+%E2%98%95;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nirmalgnpk&style=for-the-badge&color=f97316&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<!-- About + Anime Image side by side -->
-<img align="right" alt="Anime Programmer" width="220" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ## 👨‍💻 About Me
 
@@ -24,12 +26,12 @@ const kaveesha = {
   learning : ["Java", "Full Stack Development"],
   passion  : ["Branding", "Digital Art", "Creative Storytelling"],
   tools    : ["Photoshop", "Illustrator", "Canva"],
-  funFact  : "I design visuals by day & write code by night 🌙"
+  funFact  : "I design by day & write code by night 🌙"
 };
 ```
 
 - 🌱 Currently learning **Java**
-- 👨‍💻 All my projects at **[Kaveesha Nirmal](https://github.com/KaveeshaNirmal)**
+- 👨‍💻 All my projects at **[Kaveesha Nirmal](https://github.com/nirmalgnpk)**
 - 👀 Interested in **Full Stack Development** & **Graphic Design**
 - 🎨 Skilled in **Photoshop, Illustrator, Canva** and more
 - 💡 Passionate about **branding, digital art & creative storytelling**
@@ -42,23 +44,7 @@ const kaveesha = {
 ## 🚀 Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,java,python,php,c,cpp,mysql,mongodb,git,docker,figma,postman&perline=9" />
 </p>
 
 ---
@@ -66,16 +52,13 @@ const kaveesha = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KaveeshaNirmal&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=f97316&icon_color=f97316&text_color=000000" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaNirmal&layout=compact&theme=default&hide_border=true&title_color=f97316&text_color=000000" height="165"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmalgnpk&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalgnpk&layout=compact&theme=radical&hide_border=true" height="170"/>
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KaveeshaNirmal&theme=default&hide_border=true&ring=f97316&fire=ef4444&currStreakLabel=f97316)](https://git.io/streak-stats)
-
+  <img src="https://streak-stats.demolab.com?user=nirmalgnpk&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -83,8 +66,27 @@ const kaveesha = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nirmalgnpk&theme=radical&no-frame=true&row=1&column=7" />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KaveeshaNirmal&theme=flat&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalgnpk&theme=redical&hide_border=true" />
+</div>
+
+---
+
+## 🎨 Design Skills
+
+<div align="center">
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -94,9 +96,9 @@ const kaveesha = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnpkaveeshanirmal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaveeshaNirmal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KaveeshaNirmal)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnpkaveeshanirmal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nirmalgnpk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmalgnpk)
 
 </div>
 
@@ -104,7 +106,10 @@ const kaveesha = {
 
 <div align="center">
 
-⭐️ From [KaveeshaNirmal](https://github.com/KaveeshaNirmal)
+### 💬 *"Design is intelligence made visible. Code makes it real."*
 
+⭐️ From [nirmalgnpk](https://github.com/nirmalgnpk) — don't forget to star your favourite repos!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=100&section=footer"/>
 
 </div>
